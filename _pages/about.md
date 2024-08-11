@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About Me"
+google-site-verification: "SigAALj8mqG4pQnbcjt7PTg9FRDHLHog9dL58hESlIA"
 author_profile: true
 redirect_from: 
   - /about/
