@@ -19,7 +19,7 @@ author_profile: true
 * Baris Ata, **Ebru Kasikaralar**. Dynamic scheduling of a parallel-server system in the Halfin-Whitt Regime: A Computational Approach for High-Dimensional Problems.
   
 * John R. Birge, **Ebru Kasikaralar**. Quality Learning in a Dynamic Mutual Data Exchange Model.
- * Presented at INFORMS Annual Meeting 2021, 2022.
+  * Presented at INFORMS Annual Meeting 2021, 2022.
  
  
 
