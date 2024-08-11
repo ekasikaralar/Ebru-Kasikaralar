@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! 
-I'm a final-year PhD candidate in Operations Management at [the University of Chicago Booth School of Business](https://www.chicagobooth.edu/). 
-I’m advised by Professor [Baris Ata](https://www.chicagobooth.edu/faculty/directory/a/baris-ata). Previously, I obtained a B.S. degree 
+Welcome! I'm a final-year PhD candidate in [Management Science and Operations Management](https://www.chicagobooth.edu/phd/dissertation-areas/management-science-and-operations-management) at [The University of Chicago Booth School of Business](https://www.chicagobooth.edu/). I’m advised by Professor [Baris Ata](https://www.chicagobooth.edu/faculty/directory/a/baris-ata). Previously, I received a B.S. degree 
 in Industrial Engineering and Operations Research from [UC Berkeley College of Engineering](https://ieor.berkeley.edu/).
 
 
@@ -19,7 +17,7 @@ My current research focus is on queueing theory and computational methods for so
 
 Contact
 ------------------
-Email: ebrukasikaralar@chicagobooth.edu
+Email: ebrukasikaralar [at] chicagobooth [dot] edu
 
 
 My CV can be downloaded here.
