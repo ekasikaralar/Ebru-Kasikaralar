@@ -15,4 +15,4 @@ author_profile: true
 
 
 ## University of California, Berkeley 
-* <span style="color:#840404"> **Technology Firm Leadership** </span>: TA for _Pamela Park_ (Spring 2018)
+* <span style="color:#840404"> **Technology Firm Leadership** </span>: TA for _Pamela Park_ (Fall 2018)
