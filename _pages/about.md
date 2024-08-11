@@ -17,8 +17,8 @@ My current research focus is on queueing theory and computational methods for so
 
 Contact
 ------------------
-Email: ebrukasikaralar [at] chicagobooth [dot] edu
-
+Email: ebrukasikaralar [at] chicagobooth [dot] edu. 
 
 My [**CV**](../files/ebru_kasikaralar_cv.pdf) can be downloaded here.
+
 ---
