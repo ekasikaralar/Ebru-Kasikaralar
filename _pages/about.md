@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I'm a final-year PhD candidate in Operations Management at [the University of Chicago Booth School of Business](https://www.chicagobooth.edu/). I’m advised by Professor [Baris Ata](https://www.chicagobooth.edu/faculty/directory/a/baris-ata). I hold a B.S. degree in Industrial Engineering and Operations Research from [UC Berkeley College of Engineering](https://ieor.berkeley.edu/).
+Welcome to my website! I'm a final-year PhD candidate in Operations Management at [the University of Chicago Booth School of Business](https://www.chicagobooth.edu/). I’m advised by Professor [Baris Ata](https://www.chicagobooth.edu/faculty/directory/a/baris-ata). Previously, I obtained a B.S. degree in Industrial Engineering and Operations Research from [UC Berkeley College of Engineering](https://ieor.berkeley.edu/).
 
 
 Research Interests
