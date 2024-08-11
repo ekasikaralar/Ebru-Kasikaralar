@@ -20,6 +20,5 @@ Contact
 Email: ebrukasikaralar [at] chicagobooth [dot] edu
 
 
-My CV can be downloaded here.
-
+My [**CV**](../files/ebru_kasikaralar_cv.pdf) can be downloaded here.
 ---
