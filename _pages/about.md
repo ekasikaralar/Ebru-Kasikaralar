@@ -24,6 +24,5 @@ Email: ebrukasikaralar [at] chicagobooth [dot] edu.
 
 My [**CV**](../files/ebru_kasikaralar_cv.pdf) can be downloaded here.
 
----
 
 <a href="https://clustrmaps.com/site/1c0tq"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=_UyDHDg2cwdraqaByF1taGhmW1Ft-fLeGx9UCosnF4E&cl=ffffff" /></a>
