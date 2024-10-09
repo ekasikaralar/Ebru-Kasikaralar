@@ -21,7 +21,7 @@ repository               : "ekasikaralar/Ebru-Kasikaralar"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_8900.JPG"
+  avatar           : "EK_pic.png"
   name             : "Ebru Kasikaralar"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Operations Management"
