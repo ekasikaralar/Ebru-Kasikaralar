@@ -7,7 +7,7 @@ author_profile: true
 
 ## The University of Chicago, Booth School of Business
 ### Executive MBA
-* <span style="color:#840404">  Operations Management  </span>: TA for _Baris Ata_ (Winter 2022, Winter 2023, Winter 2024)
+* <span style="color:#840404">  Operations Management  </span>: TA for _Baris Ata_ (Winter 2022, Winter 2023, Winter 2024, Winter 2025)
 * <span style="color:#840404"> Managerial Decision Modeling  </span>: TA for _Baris Ata_ (Summer 2021)
   
 ### Undergraduate
