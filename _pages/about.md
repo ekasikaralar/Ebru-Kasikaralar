@@ -22,6 +22,6 @@ Email: ebrukasikaralar [at] chicagobooth [dot] edu.
 
 
 
-My [**CV**](../files/resume_mar6.pdf) can be downloaded here.
+My [**CV**](../files/ebrukasikaralar_resume.pdf) can be downloaded here.
 
 
