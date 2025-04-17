@@ -16,6 +16,8 @@ Research Interests
 ------------------
 My current research focus is on queueing theory and computational methods for solving high-dimensional stochastic control problems.
 
+**I'll be joining Amazon's Capacity Planning Team as a Research Scientist. Looking forward to this next chapter!**
+
 Contact
 ------------------
 Email: ebrukasikaralar [at] chicagobooth [dot] edu. 
