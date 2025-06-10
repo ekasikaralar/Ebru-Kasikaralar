@@ -24,6 +24,6 @@ Email: ebrukasikaralar [at] chicagobooth [dot] edu.
 
 
 
-My [**CV**](../files/Ebru_Kasikaralar_CV_May25.pdf) (updated May 2025) can be downloaded here.
+My [**CV**](../files/ek_resume.pdf) (updated June 2025) can be downloaded here.
 
 
