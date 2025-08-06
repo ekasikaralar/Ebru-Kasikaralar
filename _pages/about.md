@@ -8,15 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a final-year PhD candidate in [Management Science and Operations Management](https://www.chicagobooth.edu/phd/dissertation-areas/management-science-and-operations-management) at [The University of Chicago Booth School of Business](https://www.chicagobooth.edu/). I’m advised by Professor [Baris Ata](https://www.chicagobooth.edu/faculty/directory/a/baris-ata). Previously, I received a B.S. degree 
-in Industrial Engineering and Operations Research from [UC Berkeley College of Engineering](https://ieor.berkeley.edu/).
+Welcome! I'm a Research Scientist at Amazon's Worldwide Capacity Planning. Previously, I received my Ph.D. degree in [Management Science and Operations Management](https://www.chicagobooth.edu/phd/dissertation-areas/management-science-and-operations-management) at [The University of Chicago Booth School of Business](https://www.chicagobooth.edu/), where I was advised by Professor [Baris Ata](https://www.chicagobooth.edu/faculty/directory/a/baris-ata). Prior to graduate school, I received a B.S. degree in Industrial Engineering and Operations Research from [UC Berkeley College of Engineering](https://ieor.berkeley.edu/).
 
 
 Research Interests
 ------------------
 My current research focus is on queueing theory and computational methods for solving high-dimensional stochastic control problems.
-
-**I'll be joining Amazon's Worldwide Capacity Planning Team as a Research Scientist. Looking forward to this next chapter!**
 
 Contact
 ------------------
