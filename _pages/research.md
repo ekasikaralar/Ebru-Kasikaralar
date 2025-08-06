@@ -23,5 +23,6 @@ author_profile: true
   * Presented at INFORMS Annual Meeting 2021, 2022.
  
  
-
+## Thesis
+* [Dynamic Scheduling of Multiclass Queueing Systems in the Halfin-Whitt regime: A Computational Approach for High-Dimensional Problems](https://knowledge.uchicago.edu/record/15757?v=pdf)
  
