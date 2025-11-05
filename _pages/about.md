@@ -21,6 +21,6 @@ Email: ebrukasikaralar [at] chicagobooth [dot] edu.
 
 
 
-My [**CV**](../files/ek_resume.pdf) (updated June 2025) can be downloaded here.
+My [**CV**](../files/ek_resume.pdf) (updated Nov 2025) can be downloaded here.
 
 
